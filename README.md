@@ -31,8 +31,8 @@ Aplicação de console desenvolvida em Java puro para realizar o gerenciamento c
 
 2.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/cadastro-usuarios-lopal.git](https://github.com/seu-usuario/cadastro-usuarios-lopal.git)
-    cd cadastro-usuarios-lopal
+    git clone [https://github.com/victormordachini/cadastro-usuarios-procedural.git](https://github.com/victormordachini/cadastro-usuarios-procedural.git)
+    cd cadastro-usuarios-procedural
     ```
 
 3.  **Execute a aplicação:**
